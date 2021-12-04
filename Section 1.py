@@ -1,7 +1,7 @@
 '''
 Implementing Deep Learning
 Assignment: Hw 11 (Section 1)
-Student Name: Navjot Saini
+Student: Navjot Saini
 
 Code Author: Joseph Lee
 '''
